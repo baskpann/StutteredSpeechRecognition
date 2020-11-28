@@ -4,4 +4,3 @@ This repo ses a Convolutional Neural Network to detect stutters in the speech an
 # Libraries used
 - Keras [(link)](https://keras.io/getting_started/)
 - Librosa [(link)](https://librosa.org/doc/latest/index.html)
--
